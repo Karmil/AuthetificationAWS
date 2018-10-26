@@ -1,0 +1,17 @@
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.TestUnit\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.TestUnit\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.TestUnit\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.TestUnit\bin\Debug\netcoreapp2.1\Idigao.TestAuthetification.TestUnit.deps.json
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.TestUnit\bin\Debug\netcoreapp2.1\Idigao.TestAuthetification.TestUnit.runtimeconfig.json
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.TestUnit\bin\Debug\netcoreapp2.1\Idigao.TestAuthetification.TestUnit.runtimeconfig.dev.json
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.TestUnit\bin\Debug\netcoreapp2.1\Idigao.TestAuthetification.TestUnit.dll
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.TestUnit\bin\Debug\netcoreapp2.1\Idigao.TestAuthetification.TestUnit.pdb
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.TestUnit\bin\Debug\netcoreapp2.1\Idigao.TestAuthetification.Core.dll
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.TestUnit\bin\Debug\netcoreapp2.1\Idigao.TestAuthetification.Core.pdb
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.TestUnit\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.TestUnit.csprojAssemblyReference.cache
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.TestUnit\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.TestUnit.csproj.CoreCompileInputs.cache
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.TestUnit\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.TestUnit.AssemblyInfoInputs.cache
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.TestUnit\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.TestUnit.AssemblyInfo.cs
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.TestUnit\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.TestUnit.csproj.CopyComplete
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.TestUnit\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.TestUnit.dll
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.TestUnit\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.TestUnit.pdb

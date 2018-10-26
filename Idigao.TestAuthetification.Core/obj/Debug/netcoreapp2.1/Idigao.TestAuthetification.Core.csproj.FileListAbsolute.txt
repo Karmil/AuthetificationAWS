@@ -1,0 +1,12 @@
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Core\bin\Debug\netcoreapp2.1\Idigao.TestAuthetification.Core.deps.json
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Core\bin\Debug\netcoreapp2.1\Idigao.TestAuthetification.Core.dll
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Core\bin\Debug\netcoreapp2.1\Idigao.TestAuthetification.Core.pdb
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Core\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Core\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Core\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.Core.csprojAssemblyReference.cache
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Core\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.Core.csproj.CoreCompileInputs.cache
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Core\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.Core.AssemblyInfoInputs.cache
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Core\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.Core.AssemblyInfo.cs
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Core\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.Core.csproj.CopyComplete
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Core\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.Core.dll
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Core\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.Core.pdb

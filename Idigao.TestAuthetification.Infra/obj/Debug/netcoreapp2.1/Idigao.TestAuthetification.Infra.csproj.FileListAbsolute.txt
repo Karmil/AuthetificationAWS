@@ -1,0 +1,14 @@
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Infra\bin\Debug\netcoreapp2.1\Idigao.TestAuthetification.Infra.deps.json
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Infra\bin\Debug\netcoreapp2.1\Idigao.TestAuthetification.Infra.dll
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Infra\bin\Debug\netcoreapp2.1\Idigao.TestAuthetification.Infra.pdb
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Infra\bin\Debug\netcoreapp2.1\Idigao.TestAuthetification.Core.dll
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Infra\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Infra\bin\Debug\netcoreapp2.1\Idigao.TestAuthetification.Core.pdb
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Infra\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Infra\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.Infra.csprojAssemblyReference.cache
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Infra\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.Infra.csproj.CoreCompileInputs.cache
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Infra\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.Infra.AssemblyInfoInputs.cache
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Infra\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.Infra.AssemblyInfo.cs
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Infra\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.Infra.csproj.CopyComplete
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Infra\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.Infra.dll
+C:\Users\karmil\source\repos\Solution.Idigao.TestAuthetification\Idigao.TestAuthetification.Infra\obj\Debug\netcoreapp2.1\Idigao.TestAuthetification.Infra.pdb
