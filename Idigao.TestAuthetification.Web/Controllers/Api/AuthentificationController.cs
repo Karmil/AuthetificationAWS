@@ -2,6 +2,7 @@
 using Idigao.TestAuthetification.Core.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
 
 namespace Idigao.TestAuthetification.Web.Controllers.Api
 {
@@ -47,7 +48,9 @@ namespace Idigao.TestAuthetification.Web.Controllers.Api
                     CanonicalizedResource = canonicalizedResource,
                     Authorization = stringValue
                 };
-
+                
+                custumeAutho.HeaderAmazon = new Dictionary<string,string>(); 
+                
                 // Recuper les header values and keys. 
                 foreach (var item in HttpContext.Request.Headers.Keys)
                 {
